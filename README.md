@@ -1,4 +1,4 @@
-# FakedAMR
+# FakEDAMR
 Code repository of paper "FakEDAMR: Fake News Detection Using Abstract Meaning Representation Network" published in Complex Networks 2023
 
 
