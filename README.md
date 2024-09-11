@@ -4,7 +4,7 @@ Code repository of paper "FakEDAMR: Fake News Detection Using Abstract Meaning R
 
 > Gupta et al. "FakEDAMR: Fake News Detection Using Abstract Meaning Representation Network. 2023."
 
-Preprint: https://arxiv.org/abs/2401.06194
+Paper: [https://arxiv.org/abs/2401.06194](https://link.springer.com/chapter/10.1007/978-3-031-53468-3_26)
 
 To cite the paper:
 ```
